@@ -19,5 +19,5 @@ Then you can send emails from your app and check out the web interface: http://\
 
 
   [mailcatcher]: http://mailcatcher.me/ "MailCatcher fake SMTP server with web interface" 
-  [dockerhubpage]: https://hub.docker.com/r/tophfr/mailcatcher/ "Mailcatcher docker hub page"
+  [dockerhubpage]: https://hub.docker.com/r/mehedikhan/mailcatcher/ "Mailcatcher docker hub page"
   [alpinehubpage]: https://hub.docker.com/_/alpine/ "A minimal Docker image based on Alpine Linux with a complete package index and only 5 MB in size!"
