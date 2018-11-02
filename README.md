@@ -2,7 +2,7 @@
 
 Dockerfile for [mailcatcher][mailcatcher].
 
-It is a very small image (~34 MB uncompressed) available on [docker hub][dockerhubpage] based on [Alpine Linux][alpinehubpage] and using the last available release from the official Github repo of [MailHog][mailhog].
+It is a very small image available on [docker hub][dockerhubpage] based on [Alpine Linux][alpinehubpage].
 
 ## Usage
 
